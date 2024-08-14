@@ -1,2 +1,2 @@
-# Prep-Course-Henry
-Repositorio de prueba del módulo 2 del curso.
+Este es un proyecto del curso introductorio de web development.
+Soy Alex.
